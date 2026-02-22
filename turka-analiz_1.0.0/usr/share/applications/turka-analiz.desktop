@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Turka Analiz
+Comment=Kişi ve Karakter Analiz Aracı
+Exec=turka-analiz
+Icon=turka-analiz
+Terminal=false
+Type=Application
+Categories=Utility;

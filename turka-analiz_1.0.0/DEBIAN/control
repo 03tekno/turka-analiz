@@ -1,0 +1,9 @@
+Package: turka-analiz
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: python3, python3-pyqt6, python3-matplotlib, python3-numpy
+Maintainer: mobilturka
+Description: Turka Derin Karakter ve Fiziksel Analiz Aracı.
+ PyQt6 ve Matplotlib kullanılarak geliştirilmiş analiz uygulaması.
